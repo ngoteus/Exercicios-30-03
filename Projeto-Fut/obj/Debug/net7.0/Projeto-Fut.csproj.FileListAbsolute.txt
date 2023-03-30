@@ -1,0 +1,15 @@
+C:\Users\48527217856\Desktop\Projeto-Fut\obj\Debug\net7.0\Projeto-Fut.csproj.AssemblyReference.cache
+C:\Users\48527217856\Desktop\Projeto-Fut\obj\Debug\net7.0\Projeto-Fut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48527217856\Desktop\Projeto-Fut\obj\Debug\net7.0\Projeto-Fut.AssemblyInfoInputs.cache
+C:\Users\48527217856\Desktop\Projeto-Fut\obj\Debug\net7.0\Projeto-Fut.AssemblyInfo.cs
+C:\Users\48527217856\Desktop\Projeto-Fut\obj\Debug\net7.0\Projeto-Fut.csproj.CoreCompileInputs.cache
+C:\Users\48527217856\Desktop\Projeto-Fut\bin\Debug\net7.0\Projeto-Fut.exe
+C:\Users\48527217856\Desktop\Projeto-Fut\bin\Debug\net7.0\Projeto-Fut.deps.json
+C:\Users\48527217856\Desktop\Projeto-Fut\bin\Debug\net7.0\Projeto-Fut.runtimeconfig.json
+C:\Users\48527217856\Desktop\Projeto-Fut\bin\Debug\net7.0\Projeto-Fut.dll
+C:\Users\48527217856\Desktop\Projeto-Fut\bin\Debug\net7.0\Projeto-Fut.pdb
+C:\Users\48527217856\Desktop\Projeto-Fut\obj\Debug\net7.0\Projeto-Fut.dll
+C:\Users\48527217856\Desktop\Projeto-Fut\obj\Debug\net7.0\refint\Projeto-Fut.dll
+C:\Users\48527217856\Desktop\Projeto-Fut\obj\Debug\net7.0\Projeto-Fut.pdb
+C:\Users\48527217856\Desktop\Projeto-Fut\obj\Debug\net7.0\Projeto-Fut.genruntimeconfig.cache
+C:\Users\48527217856\Desktop\Projeto-Fut\obj\Debug\net7.0\ref\Projeto-Fut.dll

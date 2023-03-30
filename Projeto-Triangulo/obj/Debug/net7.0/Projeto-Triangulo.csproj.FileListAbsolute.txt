@@ -1,0 +1,15 @@
+C:\Users\48527217856\Desktop\Projeto-Triangulo\obj\Debug\net7.0\Projeto-Triangulo.csproj.AssemblyReference.cache
+C:\Users\48527217856\Desktop\Projeto-Triangulo\obj\Debug\net7.0\Projeto-Triangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48527217856\Desktop\Projeto-Triangulo\obj\Debug\net7.0\Projeto-Triangulo.AssemblyInfoInputs.cache
+C:\Users\48527217856\Desktop\Projeto-Triangulo\obj\Debug\net7.0\Projeto-Triangulo.AssemblyInfo.cs
+C:\Users\48527217856\Desktop\Projeto-Triangulo\obj\Debug\net7.0\Projeto-Triangulo.csproj.CoreCompileInputs.cache
+C:\Users\48527217856\Desktop\Projeto-Triangulo\bin\Debug\net7.0\Projeto-Triangulo.exe
+C:\Users\48527217856\Desktop\Projeto-Triangulo\bin\Debug\net7.0\Projeto-Triangulo.deps.json
+C:\Users\48527217856\Desktop\Projeto-Triangulo\bin\Debug\net7.0\Projeto-Triangulo.runtimeconfig.json
+C:\Users\48527217856\Desktop\Projeto-Triangulo\bin\Debug\net7.0\Projeto-Triangulo.dll
+C:\Users\48527217856\Desktop\Projeto-Triangulo\bin\Debug\net7.0\Projeto-Triangulo.pdb
+C:\Users\48527217856\Desktop\Projeto-Triangulo\obj\Debug\net7.0\Projeto-Triangulo.dll
+C:\Users\48527217856\Desktop\Projeto-Triangulo\obj\Debug\net7.0\refint\Projeto-Triangulo.dll
+C:\Users\48527217856\Desktop\Projeto-Triangulo\obj\Debug\net7.0\Projeto-Triangulo.pdb
+C:\Users\48527217856\Desktop\Projeto-Triangulo\obj\Debug\net7.0\Projeto-Triangulo.genruntimeconfig.cache
+C:\Users\48527217856\Desktop\Projeto-Triangulo\obj\Debug\net7.0\ref\Projeto-Triangulo.dll
