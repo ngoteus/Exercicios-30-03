@@ -1,0 +1,15 @@
+C:\Users\48527217856\Desktop\Projeto-maça\bin\Debug\net7.0\Projeto-maça.exe
+C:\Users\48527217856\Desktop\Projeto-maça\bin\Debug\net7.0\Projeto-maça.deps.json
+C:\Users\48527217856\Desktop\Projeto-maça\bin\Debug\net7.0\Projeto-maça.runtimeconfig.json
+C:\Users\48527217856\Desktop\Projeto-maça\bin\Debug\net7.0\Projeto-maça.dll
+C:\Users\48527217856\Desktop\Projeto-maça\bin\Debug\net7.0\Projeto-maça.pdb
+C:\Users\48527217856\Desktop\Projeto-maça\obj\Debug\net7.0\Projeto-maça.csproj.AssemblyReference.cache
+C:\Users\48527217856\Desktop\Projeto-maça\obj\Debug\net7.0\Projeto-maça.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48527217856\Desktop\Projeto-maça\obj\Debug\net7.0\Projeto-maça.AssemblyInfoInputs.cache
+C:\Users\48527217856\Desktop\Projeto-maça\obj\Debug\net7.0\Projeto-maça.AssemblyInfo.cs
+C:\Users\48527217856\Desktop\Projeto-maça\obj\Debug\net7.0\Projeto-maça.csproj.CoreCompileInputs.cache
+C:\Users\48527217856\Desktop\Projeto-maça\obj\Debug\net7.0\Projeto-maça.dll
+C:\Users\48527217856\Desktop\Projeto-maça\obj\Debug\net7.0\refint\Projeto-maça.dll
+C:\Users\48527217856\Desktop\Projeto-maça\obj\Debug\net7.0\Projeto-maça.pdb
+C:\Users\48527217856\Desktop\Projeto-maça\obj\Debug\net7.0\Projeto-maça.genruntimeconfig.cache
+C:\Users\48527217856\Desktop\Projeto-maça\obj\Debug\net7.0\ref\Projeto-maça.dll

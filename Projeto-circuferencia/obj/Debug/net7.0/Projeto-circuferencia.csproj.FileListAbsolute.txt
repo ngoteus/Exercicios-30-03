@@ -1,0 +1,15 @@
+C:\Users\48527217856\Desktop\Projeto-circuferencia\obj\Debug\net7.0\Projeto-circuferencia.csproj.AssemblyReference.cache
+C:\Users\48527217856\Desktop\Projeto-circuferencia\obj\Debug\net7.0\Projeto-circuferencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48527217856\Desktop\Projeto-circuferencia\obj\Debug\net7.0\Projeto-circuferencia.AssemblyInfoInputs.cache
+C:\Users\48527217856\Desktop\Projeto-circuferencia\obj\Debug\net7.0\Projeto-circuferencia.AssemblyInfo.cs
+C:\Users\48527217856\Desktop\Projeto-circuferencia\obj\Debug\net7.0\Projeto-circuferencia.csproj.CoreCompileInputs.cache
+C:\Users\48527217856\Desktop\Projeto-circuferencia\bin\Debug\net7.0\Projeto-circuferencia.exe
+C:\Users\48527217856\Desktop\Projeto-circuferencia\bin\Debug\net7.0\Projeto-circuferencia.deps.json
+C:\Users\48527217856\Desktop\Projeto-circuferencia\bin\Debug\net7.0\Projeto-circuferencia.runtimeconfig.json
+C:\Users\48527217856\Desktop\Projeto-circuferencia\bin\Debug\net7.0\Projeto-circuferencia.dll
+C:\Users\48527217856\Desktop\Projeto-circuferencia\bin\Debug\net7.0\Projeto-circuferencia.pdb
+C:\Users\48527217856\Desktop\Projeto-circuferencia\obj\Debug\net7.0\Projeto-circuferencia.dll
+C:\Users\48527217856\Desktop\Projeto-circuferencia\obj\Debug\net7.0\refint\Projeto-circuferencia.dll
+C:\Users\48527217856\Desktop\Projeto-circuferencia\obj\Debug\net7.0\Projeto-circuferencia.pdb
+C:\Users\48527217856\Desktop\Projeto-circuferencia\obj\Debug\net7.0\Projeto-circuferencia.genruntimeconfig.cache
+C:\Users\48527217856\Desktop\Projeto-circuferencia\obj\Debug\net7.0\ref\Projeto-circuferencia.dll

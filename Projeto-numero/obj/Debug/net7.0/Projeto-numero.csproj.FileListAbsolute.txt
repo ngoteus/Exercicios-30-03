@@ -1,0 +1,15 @@
+C:\Users\48527217856\Desktop\Projeto-numero\bin\Debug\net7.0\Projeto-numero.exe
+C:\Users\48527217856\Desktop\Projeto-numero\bin\Debug\net7.0\Projeto-numero.deps.json
+C:\Users\48527217856\Desktop\Projeto-numero\bin\Debug\net7.0\Projeto-numero.runtimeconfig.json
+C:\Users\48527217856\Desktop\Projeto-numero\bin\Debug\net7.0\Projeto-numero.dll
+C:\Users\48527217856\Desktop\Projeto-numero\bin\Debug\net7.0\Projeto-numero.pdb
+C:\Users\48527217856\Desktop\Projeto-numero\obj\Debug\net7.0\Projeto-numero.csproj.AssemblyReference.cache
+C:\Users\48527217856\Desktop\Projeto-numero\obj\Debug\net7.0\Projeto-numero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48527217856\Desktop\Projeto-numero\obj\Debug\net7.0\Projeto-numero.AssemblyInfoInputs.cache
+C:\Users\48527217856\Desktop\Projeto-numero\obj\Debug\net7.0\Projeto-numero.AssemblyInfo.cs
+C:\Users\48527217856\Desktop\Projeto-numero\obj\Debug\net7.0\Projeto-numero.csproj.CoreCompileInputs.cache
+C:\Users\48527217856\Desktop\Projeto-numero\obj\Debug\net7.0\Projeto-numero.dll
+C:\Users\48527217856\Desktop\Projeto-numero\obj\Debug\net7.0\refint\Projeto-numero.dll
+C:\Users\48527217856\Desktop\Projeto-numero\obj\Debug\net7.0\Projeto-numero.pdb
+C:\Users\48527217856\Desktop\Projeto-numero\obj\Debug\net7.0\Projeto-numero.genruntimeconfig.cache
+C:\Users\48527217856\Desktop\Projeto-numero\obj\Debug\net7.0\ref\Projeto-numero.dll
