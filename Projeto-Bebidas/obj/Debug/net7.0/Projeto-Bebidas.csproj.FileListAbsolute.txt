@@ -1,0 +1,15 @@
+C:\Users\48527217856\Desktop\Projeto-Bebidas\obj\Debug\net7.0\Projeto-Bebidas.csproj.AssemblyReference.cache
+C:\Users\48527217856\Desktop\Projeto-Bebidas\obj\Debug\net7.0\Projeto-Bebidas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48527217856\Desktop\Projeto-Bebidas\obj\Debug\net7.0\Projeto-Bebidas.AssemblyInfoInputs.cache
+C:\Users\48527217856\Desktop\Projeto-Bebidas\obj\Debug\net7.0\Projeto-Bebidas.AssemblyInfo.cs
+C:\Users\48527217856\Desktop\Projeto-Bebidas\obj\Debug\net7.0\Projeto-Bebidas.csproj.CoreCompileInputs.cache
+C:\Users\48527217856\Desktop\Projeto-Bebidas\bin\Debug\net7.0\Projeto-Bebidas.exe
+C:\Users\48527217856\Desktop\Projeto-Bebidas\bin\Debug\net7.0\Projeto-Bebidas.deps.json
+C:\Users\48527217856\Desktop\Projeto-Bebidas\bin\Debug\net7.0\Projeto-Bebidas.runtimeconfig.json
+C:\Users\48527217856\Desktop\Projeto-Bebidas\bin\Debug\net7.0\Projeto-Bebidas.dll
+C:\Users\48527217856\Desktop\Projeto-Bebidas\bin\Debug\net7.0\Projeto-Bebidas.pdb
+C:\Users\48527217856\Desktop\Projeto-Bebidas\obj\Debug\net7.0\Projeto-Bebidas.dll
+C:\Users\48527217856\Desktop\Projeto-Bebidas\obj\Debug\net7.0\refint\Projeto-Bebidas.dll
+C:\Users\48527217856\Desktop\Projeto-Bebidas\obj\Debug\net7.0\Projeto-Bebidas.pdb
+C:\Users\48527217856\Desktop\Projeto-Bebidas\obj\Debug\net7.0\Projeto-Bebidas.genruntimeconfig.cache
+C:\Users\48527217856\Desktop\Projeto-Bebidas\obj\Debug\net7.0\ref\Projeto-Bebidas.dll
